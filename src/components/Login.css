@@ -3,11 +3,14 @@
   place-items: center;
   height: 100vh;
   background-color: black;
+  overflow: hidden
+
 
 }
 
 .login > img {
-  width: 100%;
+  width: 70%;
+  border-color:black;
 
 }
 

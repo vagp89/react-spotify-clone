@@ -10,7 +10,7 @@ const Login = () => {
 
     <div className="login">
       <img
-      src="https://aldianews.com/sites/default/files/articles/spotify-logo-1920x1080_fouoik-1.jpg"
+      src="https://i.vimeocdn.com/video/583976031_1280x720.jpg"
       alt=""
       />
       <a href={loginUrl}>LOGIN WITH SPOTIFY</a>
